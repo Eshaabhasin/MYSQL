@@ -1,2 +1,2 @@
 # MYSQL
-This repository Contains queries .
+This repository Contains various queries .
